@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Привет 👋, меня зовут Артем!</h1>
+<h3 align="center">Я начинающий тестировщик (с перспективами на автоматического тестировщика). Мой путь в IT начался еще с 9 класса. Тогда я занимался веб-версткой, познавал принципы ООП и не только на языке C#. После 11 класса поступил в Воронежский Государственный Университет на факультет Прикладной математики, информатики и механики. Здесь я успешно осваиваю программу с баллом в 4,9. Освоил и сам начал изучать более углубленно веб-верстку, бэкенд на Pascal, Delphi, C#, Java, строю диаграммы UML, а также бизнес-диаграммы. Влюбился в Базу Данных — познал теорию и практику уровня разработчиков (соединения, нормальные формы, писал много запросов разного уровня (начиная с простых соединений и заканчивая CTE с оконными функциями) и немного изучил Администрирования Баз Данных (оптимизация запросов, функции и процедуры, план запросов, блокировки и многое другое). Так как понравилось всё — решил для себя, что нужно идти туда, где я смогу взаимодействовать как с версткой, с бэком и БД — и понял, что мне нужно тестирование. Изучил теорию тестирования, попрактиковался. Проходил успешно несколько собеседований, прошел стажировку, где мне дали грейд — Junior. Планирую развиваться дальше в мануальном тестировании и постепенно уходить в автоматизаторы</h3>
 
-<!--
-**MelArt9/MelArt9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Все мои проекты доступны по адресу [https://github.com/MelArt9](https://github.com/MelArt9)
 
-Here are some ideas to get you started:
+- 📫 Связаться со мной Вы можете через мои социальные сети **https://t.me/mi1ord**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melart9&show_icons=true&locale=en" alt="melart9" /></p>
